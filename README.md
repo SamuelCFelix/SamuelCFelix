@@ -1,5 +1,5 @@
 # 👨🏽‍💻 Sobre mim :
-Engenharia da Computação - UFRN
+Olá, meu nome é Samuel Cardoso Félix e eu estou me graduando em Engenharia da Computação - UFRN
 
 
 ## 🌐 Redes Sociais :
