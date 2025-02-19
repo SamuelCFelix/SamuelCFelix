@@ -14,3 +14,4 @@ Olá, meu nome é Samuel Cardoso Félix e eu estou me graduando em Engenharia da
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCFelix&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelCFelix&theme=tokyonight&hide_border=false)<br/>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamuelCFelix&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+:
